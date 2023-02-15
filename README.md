@@ -1,7 +1,4 @@
-# Vue 3 + Vite
+A basic to-do built using Vue, Pinia, and tailwindcss. 
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+<img width="625" alt="Screenshot 2023-02-15 at 10 18 36 AM" src="https://user-images.githubusercontent.com/91845898/218946413-da8d32a7-1c19-4c60-8a45-4717c1c4d6f4.png">
